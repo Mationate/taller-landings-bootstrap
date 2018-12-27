@@ -1,4 +1,11 @@
-.caja{
-  height: 100px;
-  border: solid 1px black;
+.caja1{
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.textwrapper{
+  vertical-align: top;
+}
+.caja2{
+  width: 100vw;
+  height: auto;
 }
