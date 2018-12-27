@@ -2,10 +2,6 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
-.textwrapper{
-  vertical-align: top;
-}
-.caja2{
-  width: 100vw;
-  height: auto;
+.card{
+  padding: 10px;
 }
